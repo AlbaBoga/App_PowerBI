@@ -9,6 +9,6 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.title('Manufacturer Analysis')
 
-link = '<iframe title="ManufacturerAnalysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=83e4c3db-d0e0-4485-9aaf-898a1921293a&autoAuth=true&ctid=8aebddb6-3418-43a1-a255-b964186ecc64" frameborder="0" allowFullScreen="true"></iframe>'
+link = '<iframe title="Report Section" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiNTMzM2Q3ODItMTlhNy00ZGQ4LThkNGUtMjYxZWIyNDMwYjc2IiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>'
 
 st.markdown(link, unsafe_allow_html=True)
